@@ -1,7 +1,6 @@
 """
-Author: Bisnu Ray
-Telegram: https://t.me/SmartBisnuBio
-"""
+Author: GOPESH
+
 
 import os
 import io
@@ -13,10 +12,10 @@ from pyrogram import Client, filters
 from pyrogram.enums import ParseMode
 
 # --- Configuration ---
-API_ID = "26548085"  # Replace with your actual API ID
-API_HASH = "111d83595c01913773dde5861d1acdb1"  # Replace with your actual API HASH
-BOT_TOKEN = "7876240945:AAGRzsGgt4vEuzTEyFcCbhF0oTFQmSBJQV8"  # Replace this BOT_TOKEN
-GOOGLE_API_KEY = "AIzaSyAc-uRFQ1tmkM9ozzgXS4A_Q1GcCW9Uz94"  # Replace this Google Api Key
+API_ID = "2"  # Replace with your actual API ID
+API_HASH = "111d1acdb1"  # Replace with your actual API HASH
+BOT_TOKEN = "787"  # Replace this BOT_TOKEN
+GOOGLE_API_KEY = "94"  # Replace this Google Api Key
 MODEL_NAME = "gemini-1.5-flash"  # Don't Change this model
 # --- End of Configuration ---
 
